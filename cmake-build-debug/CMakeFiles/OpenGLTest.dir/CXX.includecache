@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Anuj/CLionProjects/chain reaction/main.cpp
+iostream
+-
+SDL.h
+-
+SDL.h
+-
+stdio.h
+-
+SDL.h
+C:/Users/Anuj/CLionProjects/chain reaction/SDL.h
+SDL_image.h
+C:/Users/Anuj/CLionProjects/chain reaction/SDL_image.h
+SDL_mixer.h
+-
+string
+-
+heli.h
+C:/Users/Anuj/CLionProjects/chain reaction/heli.h
+loader.h
+C:/Users/Anuj/CLionProjects/chain reaction/loader.h
+timer.h
+C:/Users/Anuj/CLionProjects/chain reaction/timer.h
+window.h
+C:/Users/Anuj/CLionProjects/chain reaction/window.h
+obstacles.h
+C:/Users/Anuj/CLionProjects/chain reaction/obstacles.h
+game_functions.h
+C:/Users/Anuj/CLionProjects/chain reaction/game_functions.h
+play.h
+C:/Users/Anuj/CLionProjects/chain reaction/play.h
+
